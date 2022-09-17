@@ -1,4 +1,5 @@
-body{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz3m_xko2sq74GvuOWY3KkqOCd8FKABMnlw&usqp=CAU); border: 10px groove green;}
+body{background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz3m_xko2sq74GvuOWY3KkqOCd8FKABMnlw&usqp=CAU); border: 10px groove green;
+background-size: cover;}
 *{margin:0;}
 
 
